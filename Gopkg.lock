@@ -20,6 +20,12 @@
   version = "v1.0"
 
 [[projects]]
+  name = "github.com/pojozhang/sugar"
+  packages = ["."]
+  revision = "deb47fa81ceada69dda549bfd8abf0ff1754db1e"
+  version = "v2.1.0"
+
+[[projects]]
   name = "github.com/spf13/cobra"
   packages = ["."]
   revision = "a1f051bc3eba734da4772d60e2d677f47cf93ef4"
@@ -43,6 +49,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "981b28fed39a8363dc467b4840092feb33b99fd6460d374c38030234966feb15"
+  inputs-digest = "8b39484d4ae7329cf04872b5625c1729ab368fc5ef317a9662e5f931bd9343ae"
   solver-name = "gps-cdcl"
   solver-version = 1
