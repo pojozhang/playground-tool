@@ -44,11 +44,11 @@
     "html",
     "html/atom"
   ]
-  revision = "d41e8174641f662c5a2d1c7a5f9e828788eb8706"
+  revision = "5f9ae10d9af5b1c89ae6904293b14b064d4ada23"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "8b39484d4ae7329cf04872b5625c1729ab368fc5ef317a9662e5f931bd9343ae"
+  inputs-digest = "69a0e47d4ac17913afd341da344b23cf087dbc95ac7bad8648ce884a4e30414c"
   solver-name = "gps-cdcl"
   solver-version = 1
