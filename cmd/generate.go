@@ -22,9 +22,9 @@ type questionData struct {
 	}
 }
 
-var cmdCreate = &cobra.Command{
-	Use:   "create",
-	Short: "Create a problem markdown file",
+var cmdGenerate = &cobra.Command{
+	Use:   "generate",
+	Short: "Generate a markdown file",
 	RunE: func(cmd *cobra.Command, args []string) error {
 		url := args[0]
 		question := extractQuestion(url)
