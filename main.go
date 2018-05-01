@@ -1,6 +1,6 @@
 package main
 
-import "playground-tool/cmd"
+import "github.com/pojozhang/playground-tool/cmd"
 
 func main() {
 	cmd.Execute()

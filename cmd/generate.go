@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"github.com/pojozhang/sugar"
 	"net/url"
-	"playground-tool/util"
+	"github.com/pojozhang/playground-tool/util"
 	"os"
 )
 
